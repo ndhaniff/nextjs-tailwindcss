@@ -7,6 +7,7 @@ next.js template including tailwindcss
 - Includes Tailwindcss
 - Includes postcss-preset-env
 - now uses tailwindcss 1.4.x purge method on production builds
+- allow to use @apply directive in styled-jsx tags
 
 ## usage
 
